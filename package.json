@@ -1,0 +1,11 @@
+{
+  "name": "kfc-auto-eggtart",
+  "main": "index.js",
+  "author": "JongChan Choi",
+  "license": "WTFPL",
+  "dependencies": {
+    "nightmare": "^2.0.7",
+    "vo": "^1.0.3",
+    "yargs": "^3.27.0"
+  }
+}
